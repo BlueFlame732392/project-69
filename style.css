@@ -1,0 +1,67 @@
+
+
+body {
+
+    text-align: center;
+    background-color: rgb(58, 56, 56);
+    color:rgb(251, 251, 251)
+}
+
+
+#img1{
+
+    width: 1250px;
+    height: 400px;
+}
+
+
+#img2{
+
+width: 300px;
+height: 250px;
+}
+#contact iframe
+{
+    width: 100%;
+}
+.contact_1 h3
+{
+    display: inline;
+}
+.contact_1 a
+{
+    text-shadow: none;
+}
+ 
+input
+{
+    background: grey
+}
+.movie_head { font-size: 20px;
+     padding: 6px 22px;
+      border-radius: 10px;
+       margin-bottom: 15px;
+        width: 100%; 
+        display: inline-block;
+     }
+     .movie_head i 
+     { float: right; }
+    
+     .movie_text span
+      { color: #ff7700; }
+
+      .environment_li {
+          margin-top: 13px;
+      }
+
+      .environment_li h4 {
+          border-bottom: 1px solid white;
+        padding: 8px;
+      }
+
+      .environment_li img {
+          border-radius: 25px;
+      }
+      .environment_li p {
+          margin: 10px;
+      }
